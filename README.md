@@ -7,7 +7,7 @@ This Repo contains solutions to the exercises on the book: [Datastructures and A
 Solutions from Chapter 1 to 6 are a heavily based on the solutions by [wdlcameron](https://github.com/wdlcameron/Solutions-to-Data-Structures-and-Algorithms-in-Python) with some minor changes by me. The solution for the remaining chapters will be mostly my own.
 
 Current Progress:
-- Chapter 1 (Done)
+- [Chapter 1](/Chapter1.ipynb) (Done)
 - Chapter 2 (Done)
 - Chapter 3 (Done)
 - Chapter 4 (Done)
