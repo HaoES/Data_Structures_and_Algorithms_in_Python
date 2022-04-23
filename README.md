@@ -8,12 +8,12 @@ Solutions from Chapter 1 to 6 are a heavily based on the solutions by [wdlcamero
 
 Current Progress:
 - [Chapter 1](/Chapter1.ipynb) (Done)
-- Chapter 2 (Done)
-- Chapter 3 (Done)
-- Chapter 4 (Done)
-- Chapter 5 (Done)
-- Chapter 6 (Done)
-- Chapter 7 (In Progress)
+- [Chapter 2](/Chapter2.ipynb) (Done)
+- [Chapter 3](/Chapter3.ipynb) (Done)
+- [Chapter 4](/Chapter4.ipynb) (Done)
+- [Chapter 5](/Chapter5.ipynb) (Done)
+- [Chapter 6](/Chapter6.ipynb) (Done)
+- [Chapter 7](/Chapter7.ipynb) (In Progress)
 - Chapter 8
 - Chapter 9
 - Chapter 10
